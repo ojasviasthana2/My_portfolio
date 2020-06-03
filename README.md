@@ -1,6 +1,7 @@
 # Ojasvi Portfolio
 Data Science Portfolio 
-# Project 1 : Data Science Salary Estimator
-* Created a tool that estimates data science salaries (MAE ~ $11K) to help data scientists negotiate their income when they get a job
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Optimised Linear and Random Forest Regressors to reach the best model
+# Project 1 : [Data Science Profit Estimator] (https://github.com/ojasviasthana2/My_portfolio/tree/master/portfolio)
+* Created a tool that estimates data science profits to help investors choose which startup to invest in. 
+* Dataset contains around 50 startup information about money spent on Marketing, Administration and RnD
+* Optimised Multiple Linear Regression to reach the best model
+
